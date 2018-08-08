@@ -1,1 +1,1 @@
-# BusinessLingo-master
+# BusinessLingo
